@@ -1,0 +1,58 @@
+{
+    "list": {
+        "user": {
+            "name": "List Tasks",
+            "email": "listTasks@tasks.com",
+            "password": "tasks123"
+        },
+        "tasks": [
+            {
+                "name": "t4sk 1",
+                "tags": [
+                    "tag 1"
+                ]
+            },
+            {
+                "name": "t4sk 2",
+                "tags": [
+                    "tag 1",
+                    "tag 2"
+                ]
+            },
+            {
+                "name": "t4sk 3",
+                "tags": [
+                    "tag 1 ",
+                    "tag 2",
+                    "tag 3"
+                ]
+            }
+        ]
+    },
+
+    "unique": {
+        "user": {
+            "name": "GetUnique Task",
+            "email": "getUniqueTask@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "New unique task",
+            "tags": [
+                "new",
+                "task",
+                "unique"
+            ]
+        }
+    },
+    "notFound": {
+        "user": {
+            "name": "TasksNotFound",
+            "email": "taksNotFound@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "404"
+        }
+    }
+}

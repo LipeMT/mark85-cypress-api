@@ -1,0 +1,30 @@
+{
+    "session": {
+        "name": "User Session",
+        "email": "userSession@users.com",
+        "password": "users123"
+    },
+    "invalidPassword": {
+        "email": "invalidPassword@users.com",
+        "password": "users123"
+    },
+    "email404": {
+        "email": "404@users.com",
+        "password": "users123"
+    },
+    "signUp": {
+        "name": "Register user",
+        "email": "resgisterUser@users.com",
+        "password": "users123"
+    },
+    "duplicateEmail": {
+        "name": "Duplicate Email",
+        "email": "duplicateEmail@users.com",
+        "password": "users123"
+    },
+    "requiredFields": {
+        "name": "Required Fields",
+        "email": "requiredFields@users.com",
+        "password": "users123"
+    }
+}

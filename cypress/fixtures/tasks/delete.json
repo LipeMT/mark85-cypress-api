@@ -1,0 +1,26 @@
+{
+    "remove": {
+        "user": {
+            "name": "Delete Task",
+            "email": "deleteTask@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "Delete Task",
+            "tags": [
+                "task",
+                "delete"
+            ]
+        }
+    },
+    "notFound": {
+        "user": {
+            "name": "TasksNotFound",
+            "email": "taksNotFound@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "404"
+        }
+    }
+}

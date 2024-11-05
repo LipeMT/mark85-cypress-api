@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Taks",
+            "email": "tasks@gmail.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "Teste",
+            "tags": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Duplicate Task",
+            "email": "duplicateTask@gmail.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "Duplicar tasks"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "update": {
+        "user": {
+            "name": "Update Task",
+            "email": "updateTask@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "Update Task",
+            "tags": [
+                "task",
+                "update"
+            ]
+        }
+    },
+    "notFound": {
+        "user": {
+            "name": "TasksNotFound",
+            "email": "taksNotFound@tasks.com",
+            "password": "tasks123"
+        },
+        "task": {
+            "name": "404"
+        }
+    }
+}
