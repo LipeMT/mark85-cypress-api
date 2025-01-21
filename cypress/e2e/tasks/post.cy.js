@@ -36,7 +36,6 @@ describe('POST /tasks', () => {
                         expect(response.body._id.length).to.eq(24)
                     })
                 })
-
         })
 
         after(function () {
@@ -76,7 +75,6 @@ describe('POST /tasks', () => {
                     expect(response.body._id.length).to.eq(24)
                 })
             })
-
     })
 
     it('duplicate task', function () {
